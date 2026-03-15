@@ -1,0 +1,21 @@
+p {
+  color: purple;
+}
+/* styles.css */
+
+div {
+  color: cyan;
+}
+* {
+  color: brown;
+}
+/* styles.css */
+
+.alert-text {
+  color: yellow;
+}
+/* styles.css */
+
+#title {
+  background-color: blue;
+}
