@@ -1,0 +1,14 @@
+/* classes */
+.class1 {
+    background-color: rgb(233, 135, 135); font-family: Verdana,"dejaVu Sans", sans-serif;
+}
+.class2 {
+    font-size:24px;
+}
+/* ID */
+#id1 {
+    color:blue; font-size:36px;
+}
+#id2 {
+    background-color: lightgreen;font-size: 24px; font-weight: bold;
+}
