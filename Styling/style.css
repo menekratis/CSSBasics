@@ -1,7 +1,7 @@
 p {
   color: purple;
 }
-/* styles.css */
+/* style.css */
 
 div {
   color: cyan;
@@ -9,13 +9,17 @@ div {
 * {
   color: brown;
 }
-/* styles.css */
+/* style.css */
 
 .alert-text {
   color: yellow;
 }
-/* styles.css */
+/* style.css */
 
 #title {
   background-color: blue;
 }
+.subsection.header {
+  color: red;
+}
+
