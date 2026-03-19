@@ -1,25 +1,18 @@
-p {
-  color: purple;
-}
-/* style.css */
-
-div {
-  color: cyan;
-}
 * {
-  color: brown;
+  padding: 0px; margin: 0px; box-sizing: border-box;
 }
-/* style.css */
-
-.alert-text {
-  color: yellow;
+div {
+  display: block; color: purple; padding: 5px; border: 2px solid red; margin: 40px; height: 380px; weight: 380px; background-color: black; text-align: center; box-sizing: border-box;
 }
-/* style.css */
-
-#title {
-  background-color: blue;
+.preview{
+  display: block; padding: 10px; margin: 20px; border: solid red 10px;
 }
-.subsection.header {
-  color: red;
+.box1 {
+  background-color: aqua; box-sizing: content-box; width: 700px; height: 300px; padding: 50px;
 }
-
+.box2 {
+  background-color: blueviolet; box-sizing: border-box; width: 700px; height: 300px; padding: 50px;
+}
+.box1, .box2 {
+  border: solid black 50px;
+}
