@@ -2,7 +2,7 @@
   padding: 0px; margin: 0px; box-sizing: border-box;
 }
 div {
-  display: block; color: purple; padding: 5px; border: 2px solid red; margin: 40px; height: 380px; weight: 380px; background-color: black; text-align: center; box-sizing: border-box;
+  display: block; color: purple; padding: 5px; border: 2px solid red; margin: 40px; height: 380px; width: 380px; background-color: black; text-align: center; box-sizing: border-box;
 }
 .preview{
   display: block; padding: 10px; margin: 20px; border: solid red 10px;
